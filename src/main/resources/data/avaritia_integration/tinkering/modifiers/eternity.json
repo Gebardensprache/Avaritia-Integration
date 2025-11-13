@@ -1,0 +1,14 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:max_armor_attribute",
+      "allow_broken": false,
+      "attribute": "tconstruct:generic.bad_effect_duration_multiplier",
+      "each_level": -1,
+      "held_tag": "tconstruct:modifiable/held",
+      "operation": "multiply_base"
+    }
+  ],
+  "tooltip_display": "always"
+}

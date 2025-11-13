@@ -1,0 +1,21 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tinkers_thinking:infinitum"
+    },
+    {
+      "type": "tconstruct:rarity",
+      "rarity": "cosmic"
+    },
+    {
+      "type": "tconstruct:volatile_flag",
+      "flag": "tconstruct:indestructible"
+    },
+    {
+      "type": "tconstruct:reduce_tool_damage",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

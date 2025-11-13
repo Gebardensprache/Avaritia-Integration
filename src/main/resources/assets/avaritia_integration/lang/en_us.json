@@ -89,6 +89,28 @@
 
   "item.avaritia_integration.infinity_storage_part": "Infinity Storage Part",
 
+  "material.avaritia_integration.infinity": "Infinity",
+  "material.avaritia_integration.infinity.flavor": "汝掌心中者，寰宇之力也",
+  "material.avaritia_integration.infinity.encyclopedia": "近战武器可以秒杀目标，挖掘工具可以破坏基岩和末地传送门；获得时运X和抢夺X效果",
+  "material.avaritia_integration.infinity.ranged":"",
+  "material.avaritia_integration.infinity.armor":"",
+
+  "modifier.avaritia_integration.infinitum": "Infinitum",
+  "modifier.avaritia_integration.infinitum.flavor": "",
+  "modifier.avaritia_integration.infinitum.description": "无视大多数耐久消耗，并会快速恢复耐久",
+
+  "modifier.avaritia_integration.rule_over": "Rule Over",
+  "modifier.avaritia_integration.rule_over.flavor": "",
+  "modifier.avaritia_integration.rule_over.description": "近战武器可以秒杀目标，挖掘工具可以破坏基岩和末地传送门；获得时运X和抢夺X效果",
+
+  "modifier.avaritia_integration.vault_split": "Vault Split",
+  "modifier.avaritia_integration.vault_split.flavor": "",
+  "modifier.avaritia_integration.vault_split.description": "增加弹射物力量，没有箭矢时可以射出天堂陨落长弓的范围箭矢（潜行时改为追踪箭矢）",
+
+  "modifier.avaritia_integration.eternity": "Eternity",
+  "modifier.avaritia_integration.eternity.flavor": "",
+  "modifier.avaritia_integration.eternity.description": "根据穿戴的带该特性的盔甲数量获得无尽盔甲的部分效果，4件时可无敌",
+
   "screen.avaritia_integration.module.title": "Avaritia: Integration Modules",
   "screen.avaritia_integration.module.warning": "All changes make here need to restart game to take effect",
   "screen.avaritia_integration.module.back": "Back",
